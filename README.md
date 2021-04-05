@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svli-alt
-- 👀 I’m interested in ...Javascript, CSS, HTML
+- 👀 I’m interested in ...Python, SQL, Machine learning
 - 🌱 I’m currently learning ... Python, Machine learning, AI
-- 💞️ I’m looking to collaborate on ...Javascript, Python
+- 💞️ I’m looking to collaborate on ...SQL, Python
 - 📫 How to reach me ...tal.nesse@pm.me
 
 <!---
