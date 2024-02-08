@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svli-alt
-- 👀 I’m interested in ...Python, SQL, Machine learning
-- 🌱 I’m currently learning ... Python, Machine learning, AI
-- 💞️ I’m looking to collaborate on ...SQL, Python
+- 👀 I’m interested in ...Ethical Hacking, Penetration Testing, Front-end Development
+- 🌱 I’m currently learning ... Front-End Development
+- 💞️ I’m looking to collaborate on ...SQL, Python, Cybersecurity
 - 📫 How to reach me ...tal.nesse@pm.me
 
 <!---
